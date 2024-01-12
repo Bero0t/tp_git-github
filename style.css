@@ -30,3 +30,22 @@ footer {
   background-color: #333;
   color: white;
 }
+
+#student-reviews {
+  border: 2px dotted #000; 
+  margin-bottom: 30px;
+}
+
+#student-reviews h2 {
+  margin-bottom: 10px;
+}
+
+#student-reviews ul {
+  list-style-type: none; 
+  padding: 0;
+}
+
+#student-reviews li {
+  margin-bottom: 10px;
+}
+
